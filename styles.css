@@ -1,0 +1,13 @@
+div {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border: solid white 1px;
+
+}
+
+#container {
+    background-color: aquamarine;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
